@@ -1,6 +1,7 @@
 #list {
 	max-width: 25%;
 	min-width: 320px;
+	min-height: 220px;
 	position: center;
 	margin: auto;
 	margin-top: 125px;
