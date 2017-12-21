@@ -1,0 +1,24 @@
+{
+  "name": "todo list",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.4.0",
+    "npm": "5.3.0"
+  },
+  "description": "a todo list from Colt Steeles web dev bootcamp to practice web development",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BilboAndYoda/todolist.git"
+  },
+  "author": "jordan boudreau colte steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BilboAndYoda/todolist/issues"
+  },
+  "homepage": "https://github.com/BilboAndYoda/todolist#readme"
+}
